@@ -1,6 +1,6 @@
 # contact-website
 
-## This Details
+## The Details
 This is the a mock contact page for a fake company that I made up. This shows validations and the color design as well. 
 
 ## Visual
